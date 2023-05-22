@@ -7,8 +7,8 @@ env:
     BUILD_CONFIGURATION: "production"
 
     # AWS-specific variables:
-    S3_BUCKET: ""
-    CLOUDFRONT_DISTRIBUTION_ID: ""
+    S3_BUCKET: "shop-angular-app-20198ojask"
+    CLOUDFRONT_DISTRIBUTION_ID: "E3P0IAV8X45D8A"
 
 phases:
   install:
